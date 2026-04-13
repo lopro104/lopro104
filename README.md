@@ -1,16 +1,16 @@
-## Hi there 👋
+### 📱 Android Development
+I am the **Unofficial Maintainer of Evolution X** for the Google Pixel 4a (sunfish).
 
-<!--
-**lopro104/lopro104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+| Category | Tools |
+| :--- | :--- |
+| **Main OS** | Fedora 43 (Kernel 7.0) |
+| **Secondary OS** | Windows 11 |
+| **Languages** | Makefile, Luau, Python |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Activity
+![My Stats](https://github-readme-streak-stats.herokuapp.com/?user=lopro104&theme=tokyonight)
